@@ -1,4 +1,3 @@
-
 public class No {
 	  private long id;
 	  private No esquerdo;

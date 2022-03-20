@@ -1,3 +1,5 @@
+//Link do replit
+//https://replit.com/@oliveiraemerson/PTIEstruturaDadosParteA#Main.java
 class Main {
   public static void main(String[] args) {
 	  ArvoreBinaria tree = new ArvoreBinaria(); // cria a árvore binária

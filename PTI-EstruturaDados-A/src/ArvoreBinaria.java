@@ -1,4 +1,3 @@
-
 public class ArvoreBinaria { private No raiz; Integer esquerda = 0;	  
 	public void insert(long id, Object element)
     {	
